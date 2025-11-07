@@ -1,4 +1,4 @@
-# CS224N Lecture 1: Introduction & Word Vectors
+# CS224N Deep Learning 1: Word Vectors & Introduction
 
 ## Course Overview
 
@@ -147,4 +147,4 @@ analogy('australia', 'canberra', 'france') → 'paris'
 
 ---
 
-# LectureNotes #CS224N #WordVectors #DeepLearning #NLP
+#LectureNotes #CS224N #WordVectors #DeepLearning #NLP
