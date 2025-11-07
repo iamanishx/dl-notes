@@ -236,4 +236,4 @@ analogy('tall', 'tallest', 'long') → 'longest'
 
 ---
 
-#LectureNotes #CS224N #NeuralNetworks #WordEmbeddings #NLP
+# LectureNotes #CS224N #NeuralNetworks #WordEmbeddings #NLP

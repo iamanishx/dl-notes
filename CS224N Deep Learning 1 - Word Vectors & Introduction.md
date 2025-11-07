@@ -147,4 +147,4 @@ analogy('australia', 'canberra', 'france') → 'paris'
 
 ---
 
-#LectureNotes #CS224N #WordVectors #DeepLearning #NLP
+# LectureNotes #CS224N #WordVectors #DeepLearning #NLP
